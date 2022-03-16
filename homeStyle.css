@@ -1,0 +1,17 @@
+
+* {
+    margin: 0;
+    font-family: "Quicksand";
+    color: #333;
+}
+.interview-list interview-preview p{
+    display: block;
+    margin-block-start: 10em;
+    margin-block-end: 10em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+style attribute {
+    text-decoration: none;
+}
